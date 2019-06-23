@@ -1,1 +1,1 @@
-CI-CD automation job temp file.
+CI-CD automation job temp file

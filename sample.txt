@@ -1,1 +1,1 @@
-CI-CD automation job temp file with version selection.
+CI-CD automation job temp file with version selection
